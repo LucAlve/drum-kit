@@ -26,5 +26,5 @@ document.getElementsByClassName("k")[0].addEventListener("click", function() {
 });
 
 document.getElementsByClassName("l")[0].addEventListener("click", function() {
-  alert("got clicked");
+  alert("got yelled");
 });
